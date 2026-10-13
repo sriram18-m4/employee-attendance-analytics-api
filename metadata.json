@@ -1,0 +1,6 @@
+{
+  "name": "Employee Attendance & Analytics API",
+  "description": "FastAPI and MongoDB backend for employee attendance, punch management, and high-performance aggregation analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
